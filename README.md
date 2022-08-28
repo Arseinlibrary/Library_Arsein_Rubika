@@ -1,4 +1,4 @@
-How to install library :  pip install libraryArsein==4.2.5  
+How to install library :   pip install libraryArsein==4.2.5  
 
 How to import Arsin's library is as follows:
 
